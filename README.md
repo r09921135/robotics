@@ -1,5 +1,5 @@
 # CSIE5047 Robotics: Speech Control Care Robot
-We propose a robotic system called Speech Control Care Robot, where the robot arm can be controlled by human speech commands to help with some daily activities, more specifically, grabbing things and feeding food that human describe.
+We propose a robotic system called Speech Control Care Robot, where the robot arm can be controlled by human speech commands to help with some daily activities, more specifically, grabbing things and feeding food that human describe. [[Paper]](https://github.com/r09921135/robotics/blob/master/Team9_report.pdf) [[Slides]](https://github.com/r09921135/robotics/blob/master/Team9_slides.pdf)
 
 ## Execution
 To execute the entire sustem, run the following command:
